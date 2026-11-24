@@ -1,0 +1,4 @@
+three@0.187.0
+Source: npm package three@0.187.0
+Files: build/three.module.js, build/three.core.js
+License: MIT (see LICENSE)
